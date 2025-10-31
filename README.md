@@ -6,7 +6,7 @@ Also available at [ANS Solutions github](https://github.com/ANS-Solutions/GlobaL
 
 ![GitHub License](https://img.shields.io/github/license/SabeeirSharrma/GlobaLedge)
 
-[Discord](https://discord.com/uU88mQfypT)
+[Discord](https://discord.gg/CN5datVbF4))
 
 
 ---
