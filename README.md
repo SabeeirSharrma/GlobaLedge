@@ -19,7 +19,6 @@
 - View portfolio value in your **selected base currency** (auto-converted).  
 - Display **interactive price trends** and **portfolio distribution pie charts**.  
 - Supports **Indian stocks** (e.g., `RELIANCE.NS`, `TCS.NS`) and global tickers (`AAPL`, `TSLA`, etc.).  
-- Automatic handling for stocks missing `.NS` or `.BO` suffixes.  
 
 ### 🤖 AI Portfolio Assistant
 - Built-in **AI financial advisor** using the [OpenAI API](https://platform.openai.com/).  
