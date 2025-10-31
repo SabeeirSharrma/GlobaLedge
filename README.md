@@ -54,7 +54,7 @@
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/GlobaLedge.git
+git clone https://github.com/SabeeirSharrma/GlobaLedge.git
 cd GlobaLedge
 ```
 
