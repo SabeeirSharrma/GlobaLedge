@@ -1,6 +1,13 @@
 # 🌍 GlobaLedge
 
-**GlobaLedge** is an all-in-one **financial dashboard** that brings together **live currency exchange rates**, **stock tracking**, and an **AI-powered portfolio assistant** — giving you a clear, intelligent view of your global financial edge.
+**GlobaLedge** is an all-in-one **financial dashboard** that brings together **live currency exchange rates**, **stock tracking**, and an **AI-powered portfolio assistant** — giving you a clear, intelligent view of your global financial edge. - Made by [Sabeeir Sharrma](https://github.com/SabeeirSharrma) and [Aaryan Bayala](https://github.com/Aaryan792) under [ANS SOLUTIONS](https://github.com/ANS-Solutions/)
+
+Also available at [ANS Solutions github](https://github.com/ANS-Solutions/GlobaLedge)
+
+https://img.shields.io/github/license/SabeeirSharrma/GlobaLedge
+
+[Discord](https://discord.gg/Z3tvfdvqkG)
+
 
 ---
 
